@@ -5,4 +5,4 @@ var cognome= prompt("Inserisci il tuo cognome");
 // chiedo all'utente colore preferito
 var colorepref= prompt("Inserisci il tuo colore preferito");
 // scrivo sulla pagina nomecognomecolorepreferito19
-document.getElementById('password').innerHTML = nome + cognome + colorepref + "19"
+document.getElementById('password').innerHTML = nome + cognome + colorepref + "19";
